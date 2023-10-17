@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub Żywiecki</h1>
-<h3 align="center">2nd Year Computer Science Student at AGH University of Science and Technology</h3>
+<h3 align="center">3rd Year Computer Science Student at AGH University of Science and Technology</h3>
 
 <p align = "center">
 My stack: <br>
