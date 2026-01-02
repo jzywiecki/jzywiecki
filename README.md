@@ -1,5 +1,5 @@
 <h2>Hey, I'm Jakub 👨‍💻</h1>
-I'm currently pursuing Master's Degree in Computer Science at Warsaw University of Technology.
+I am studying for a Master's Degree in Computer Science at Warsaw University of Technology.
 <br/><br/>
 I work at Splunk as a Software Engineer!
 <br/><br/>
